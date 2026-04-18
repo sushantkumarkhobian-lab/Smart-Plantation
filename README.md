@@ -100,7 +100,7 @@ npm run dev
 - `/ardu_code`: ESP32 source code and hashing logic.
 - `/backend`: Node.js server, API routes, and ML integration scripts.
 - `/backend/ml`: Python scripts for prediction models.
-- `/backend/models`: MongoDB schemas.
+- `/backend/models`: Trained Models for Prediction.
 - `/frontend`: React application and dashboard components.
 - `/paper`: Research documentation and related files.
 
