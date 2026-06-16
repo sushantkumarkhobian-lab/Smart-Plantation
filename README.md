@@ -106,3 +106,47 @@ npm run dev
 
 ---
 
+### 6. Screenshots
+
+## Architecture
+
+<img width="1016" height="795" alt="image" src="https://github.com/user-attachments/assets/f2de0593-91ff-4477-933e-d85078da6780" />
+
+## Home Page
+
+<img width="1087" height="528" alt="image" src="https://github.com/user-attachments/assets/5e547917-0af2-4e64-99e5-624d804922fe" />
+
+## Dashboard
+
+<img width="1093" height="520" alt="image" src="https://github.com/user-attachments/assets/e31b9ea2-7ce1-4c1c-af28-c24885da5727" />
+
+<img width="1092" height="506" alt="image" src="https://github.com/user-attachments/assets/f92f5e47-685f-4ef1-ad26-1c3395deefa9" />
+
+## Irrigation Control
+
+<img width="1083" height="520" alt="image" src="https://github.com/user-attachments/assets/166229e2-c2c3-4d2e-9daa-13377631efcc" />
+
+## ML Predictions
+
+<img width="1042" height="439" alt="image" src="https://github.com/user-attachments/assets/3b96bbf6-5b56-40e6-be5c-2c5cc8316b2a" />
+
+## Circuit Diagaram
+
+<img width="492" height="468" alt="image" src="https://github.com/user-attachments/assets/43ba99ff-3e4a-4751-8d7b-14865d0e2e06" />
+
+<img width="343" height="315" alt="image" src="https://github.com/user-attachments/assets/b181e93b-232b-4e15-a2c2-db4e9e482dc1" />
+
+<img width="1113" height="549" alt="image" src="https://github.com/user-attachments/assets/edd4595a-2c20-48ab-8606-870bfe33000a" />
+
+---
+
+
+
+
+
+
+
+
+
+
+
