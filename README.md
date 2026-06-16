@@ -102,7 +102,7 @@ npm run dev
 - `/backend/ml`: Python scripts for prediction models.
 - `/backend/models`: Trained Models for Prediction.
 - `/frontend`: React application and dashboard components.
-- `/paper`: Research documentation and related files.
+- `/docs`: Research documentation and related files.
 
 ---
 
