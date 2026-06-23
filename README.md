@@ -110,7 +110,7 @@ npm run dev
 
 ## Architecture
 
-<img width="1016" height="795" alt="image" src="https://github.com/user-attachments/assets/f2de0593-91ff-4477-933e-d85078da6780" />
+<img width="1459" height="941" alt="block_diagram" src="https://github.com/user-attachments/assets/ca44c176-cdf3-4f14-a476-f5d1bd71bfbb" />
 
 ## Home Page
 
@@ -139,6 +139,7 @@ npm run dev
 <img width="1113" height="549" alt="image" src="https://github.com/user-attachments/assets/edd4595a-2c20-48ab-8606-870bfe33000a" />
 
 ---
+
 
 
 
